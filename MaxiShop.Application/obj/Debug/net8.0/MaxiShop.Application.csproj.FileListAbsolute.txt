@@ -1,0 +1,15 @@
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\bin\Debug\net8.0\MaxiShop.Application.deps.json
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\bin\Debug\net8.0\MaxiShop.Application.dll
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\bin\Debug\net8.0\MaxiShop.Application.pdb
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\MaxiShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\MaxiShop.Application.AssemblyInfoInputs.cache
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\MaxiShop.Application.AssemblyInfo.cs
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\MaxiShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\MaxiShop.Application.dll
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\refint\MaxiShop.Application.dll
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\MaxiShop.Application.pdb
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\ref\MaxiShop.Application.dll
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\MaxiShop.Application.csproj.AssemblyReference.cache
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\bin\Debug\net8.0\MaxiShop.Domain.dll
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\bin\Debug\net8.0\MaxiShop.Domain.pdb
+C:\Users\Esakki\Documents\MaxiShop\MaxiShop.Application\obj\Debug\net8.0\MaxiShop.E4B1C4EA.Up2Date
